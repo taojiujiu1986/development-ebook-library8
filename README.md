@@ -4,7 +4,7 @@
 
 更多内容请访问：[https://tutor.lao-zhao.com/](https://tutor.lao-zhao.com/)
 
-当前共收录 4 个书架、16 本电子书。
+当前共收录 4 个书架、17 本电子书。
 
 ## 作者介绍
 
@@ -20,6 +20,7 @@
 - [全栈老赵讲 HTML 入门：从零搭建第一个网页](1.前端基础课/全栈老赵讲-HTML-入门：从零搭建第一个网页/README.md)
 - [全栈老赵讲 JavaScript 入门：让网页真正动起来](1.前端基础课/全栈老赵讲-JavaScript-入门：让网页真正动起来/README.md)
 - [全栈老赵讲 前端三件套实战：用 HTML + CSS + JavaScript 做出一个完整小网页](1.前端基础课/全栈老赵讲-前端三件套实战：用-HTML-+-CSS-+-JavaScript-做出一个完整小网页/README.md)
+- [全栈老赵讲 前端新手避坑指南：HTML、CSS、JavaScript 常见错误全解析](1.前端基础课/全栈老赵讲-前端新手避坑指南：HTML、CSS、JavaScript-常见错误全解析/README.md)
 
 ### [3.全栈项目实战课](3.全栈项目实战课)
 
