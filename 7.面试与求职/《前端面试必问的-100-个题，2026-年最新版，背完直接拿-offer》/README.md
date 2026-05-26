@@ -1,8 +1,8 @@
-# 前端面试必问的 100 个题，2026 年最新版，背完直接拿 offer
+# 《前端面试必问的 100 个题，2026 年最新版，背完直接拿 offer》
 
 <!-- PAGEBREAK -->
 
-<!-- AUTHOR_IMAGE: D:\开发项目\个人项目\autoGen_电子书生成智能体\uploads\5bcf41e2ea1b\author_cropped.png -->
+![作者介绍图](05_full_book_draft_assets/asset-66469f7644.png)
 
 <!-- PAGEBREAK -->
 
