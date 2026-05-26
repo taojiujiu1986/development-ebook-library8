@@ -3,7 +3,7 @@
   "collection_description": "",
   "author_name": "iamtaotao123",
   "author_image_path": "_assets/author-intro.png",
-  "updated_at": "2026-05-26 17:51:42",
+  "updated_at": "2026-05-26 17:52:09",
   "categories": [
     {
       "category_title": "1.前端基础课",
@@ -23,6 +23,13 @@
           "book_title": "全栈老赵讲 HTML 入门：从零搭建第一个网页",
           "readme_path": "1.前端基础课/全栈老赵讲-HTML-入门：从零搭建第一个网页/README.md",
           "updated_at": "2026-05-26 17:38:02"
+        },
+        {
+          "job_id": "1d8132b1d3a7",
+          "project_id": "1d8132b1d3a7",
+          "book_title": "全栈老赵讲 JavaScript 入门：让网页真正动起来",
+          "readme_path": "1.前端基础课/全栈老赵讲-JavaScript-入门：让网页真正动起来/README.md",
+          "updated_at": "2026-05-26 17:52:09"
         },
         {
           "job_id": "a85a17aff74e",
