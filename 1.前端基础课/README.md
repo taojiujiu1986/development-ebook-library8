@@ -12,3 +12,4 @@
 - [全栈老赵讲 HTML 入门：从零搭建第一个网页](全栈老赵讲-HTML-入门：从零搭建第一个网页/README.md)
 - [全栈老赵讲 JavaScript 入门：让网页真正动起来](全栈老赵讲-JavaScript-入门：让网页真正动起来/README.md)
 - [全栈老赵讲 前端三件套实战：用 HTML + CSS + JavaScript 做出一个完整小网页](全栈老赵讲-前端三件套实战：用-HTML-+-CSS-+-JavaScript-做出一个完整小网页/README.md)
+- [全栈老赵讲 前端新手避坑指南：HTML、CSS、JavaScript 常见错误全解析](全栈老赵讲-前端新手避坑指南：HTML、CSS、JavaScript-常见错误全解析/README.md)
