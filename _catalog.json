@@ -3,13 +3,20 @@
   "collection_description": "",
   "author_name": "iamtaotao123",
   "author_image_path": "_assets/author-intro.png",
-  "updated_at": "2026-05-26 17:38:02",
+  "updated_at": "2026-05-26 17:38:33",
   "categories": [
     {
       "category_title": "1.前端基础课",
       "category_description": "",
       "category_dir": "1.前端基础课",
       "books": [
+        {
+          "job_id": "4bd476227026",
+          "project_id": "4bd476227026",
+          "book_title": "全栈老赵讲 CSS 入门：把网页从能用变好看",
+          "readme_path": "1.前端基础课/全栈老赵讲-CSS-入门：把网页从能用变好看/README.md",
+          "updated_at": "2026-05-26 17:38:33"
+        },
         {
           "job_id": "90c87e66daff",
           "project_id": "90c87e66daff",
