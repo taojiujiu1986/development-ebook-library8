@@ -3,7 +3,7 @@
   "collection_description": "",
   "author_name": "iamtaotao123",
   "author_image_path": "_assets/author-intro.png",
-  "updated_at": "2026-05-26 17:52:09",
+  "updated_at": "2026-05-26 18:07:14",
   "categories": [
     {
       "category_title": "1.前端基础课",
@@ -37,6 +37,13 @@
           "book_title": "全栈老赵讲 前端三件套实战：用 HTML + CSS + JavaScript 做出一个完整小网页",
           "readme_path": "1.前端基础课/全栈老赵讲-前端三件套实战：用-HTML-+-CSS-+-JavaScript-做出一个完整小网页/README.md",
           "updated_at": "2026-05-26 17:51:42"
+        },
+        {
+          "job_id": "891283ae7d20",
+          "project_id": "891283ae7d20",
+          "book_title": "全栈老赵讲 前端新手避坑指南：HTML、CSS、JavaScript 常见错误全解析",
+          "readme_path": "1.前端基础课/全栈老赵讲-前端新手避坑指南：HTML、CSS、JavaScript-常见错误全解析/README.md",
+          "updated_at": "2026-05-26 18:07:14"
         }
       ]
     },
