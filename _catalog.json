@@ -3,7 +3,7 @@
   "collection_description": "",
   "author_name": "iamtaotao123",
   "author_image_path": "_assets/author-intro.png",
-  "updated_at": "2026-05-27 22:11:17",
+  "updated_at": "2026-05-27 22:22:38",
   "categories": [
     {
       "category_title": "1.前端基础课",
@@ -15,91 +15,35 @@
           "project_id": "4bd476227026",
           "book_title": "全栈老赵讲 CSS 入门：把网页从能用变好看",
           "readme_path": "1.前端基础课/全栈老赵讲-CSS-入门：把网页从能用变好看/README.md",
-          "updated_at": "2026-05-27 22:11:17"
+          "updated_at": "2026-05-27 22:22:38"
         },
         {
           "job_id": "90c87e66daff",
           "project_id": "90c87e66daff",
           "book_title": "全栈老赵讲 HTML 入门：从零搭建第一个网页",
           "readme_path": "1.前端基础课/全栈老赵讲-HTML-入门：从零搭建第一个网页/README.md",
-          "updated_at": "2026-05-27 22:11:17"
+          "updated_at": "2026-05-27 22:22:38"
         },
         {
           "job_id": "1d8132b1d3a7",
           "project_id": "1d8132b1d3a7",
           "book_title": "全栈老赵讲 JavaScript 入门：让网页真正动起来",
           "readme_path": "1.前端基础课/全栈老赵讲-JavaScript-入门：让网页真正动起来/README.md",
-          "updated_at": "2026-05-27 22:11:17"
+          "updated_at": "2026-05-27 22:22:38"
         },
         {
           "job_id": "a85a17aff74e",
           "project_id": "a85a17aff74e",
           "book_title": "全栈老赵讲 前端三件套实战：用 HTML + CSS + JavaScript 做出一个完整小网页",
           "readme_path": "1.前端基础课/全栈老赵讲-前端三件套实战：用-HTML-+-CSS-+-JavaScript-做出一个完整小网页/README.md",
-          "updated_at": "2026-05-27 22:11:17"
+          "updated_at": "2026-05-27 22:22:38"
         },
         {
           "job_id": "891283ae7d20",
           "project_id": "891283ae7d20",
           "book_title": "全栈老赵讲 前端新手避坑指南：HTML、CSS、JavaScript 常见错误全解析",
           "readme_path": "1.前端基础课/全栈老赵讲-前端新手避坑指南：HTML、CSS、JavaScript-常见错误全解析/README.md",
-          "updated_at": "2026-05-27 22:11:17"
-        }
-      ]
-    },
-    {
-      "category_title": "4.AI辅助编程",
-      "category_description": "",
-      "category_dir": "4.AI辅助编程",
-      "books": [
-        {
-          "job_id": "f8e58a603763",
-          "project_id": "f8e58a603763",
-          "book_title": "全栈老赵讲 AI辅助编程新手入门：从不会写代码到能做小工具",
-          "readme_path": "4.AI辅助编程/全栈老赵讲-AI辅助编程新手入门：从不会写代码到能做小工具/README.md",
-          "updated_at": "2026-05-27 22:11:17"
-        },
-        {
-          "job_id": "698b3869c67b",
-          "project_id": "698b3869c67b",
-          "book_title": "全栈老赵讲 前端新手也能懂的 AI 接口对接实战",
-          "readme_path": "4.AI辅助编程/全栈老赵讲-前端新手也能懂的-AI-接口对接实战/README.md",
-          "updated_at": "2026-05-27 22:11:17"
-        },
-        {
-          "job_id": "18182d07b942",
-          "project_id": "18182d07b942",
-          "book_title": "全栈老赵讲 前端项目里的 AI 调试与排错指南",
-          "readme_path": "4.AI辅助编程/全栈老赵讲-前端项目里的-AI-调试与排错指南/README.md",
-          "updated_at": "2026-05-27 22:11:17"
-        },
-        {
-          "job_id": "7c0f378f8c72",
-          "project_id": "7c0f378f8c72",
-          "book_title": "全栈老赵讲 给前端加上 AI 图像生成功能",
-          "readme_path": "4.AI辅助编程/全栈老赵讲-给前端加上-AI-图像生成功能/README.md",
-          "updated_at": "2026-05-27 22:11:17"
-        },
-        {
-          "job_id": "204969401e9a",
-          "project_id": "204969401e9a",
-          "book_title": "全栈老赵讲：AI辅助编程从零上手",
-          "readme_path": "4.AI辅助编程/全栈老赵讲：AI辅助编程从零上手/README.md",
-          "updated_at": "2026-05-27 22:11:17"
-        },
-        {
-          "job_id": "509f5508c224",
-          "project_id": "509f5508c224",
-          "book_title": "全栈老赵讲：AI辅助编程入门，零基础也能写出第一个可运行项目",
-          "readme_path": "4.AI辅助编程/全栈老赵讲：AI辅助编程入门，零基础也能写出第一个可运行项目/README.md",
-          "updated_at": "2026-05-27 22:11:17"
-        },
-        {
-          "job_id": "80b9f890952d",
-          "project_id": "1cd0d97cdebd",
-          "book_title": "全栈老赵讲：新手用 AI 批量生成前端可复用组件",
-          "readme_path": "4.AI辅助编程/全栈老赵讲：新手用-AI-批量生成前端可复用组件/README.md",
-          "updated_at": "2026-05-27 22:11:17"
+          "updated_at": "2026-05-27 22:22:38"
         }
       ]
     },
@@ -113,49 +57,49 @@
           "project_id": "91ebae794765",
           "book_title": "全栈老赵讲 FastAPI 入门：前端新手也能看懂的接口开发",
           "readme_path": "4.后端基础课/全栈老赵讲-FastAPI-入门：前端新手也能看懂的接口开发/README.md",
-          "updated_at": "2026-05-27 22:11:17"
+          "updated_at": "2026-05-27 22:22:38"
         },
         {
           "job_id": "7934a7da238e",
           "project_id": "7934a7da238e",
           "book_title": "全栈老赵讲 FastAPI 实战：从一个接口项目学会后端开发",
           "readme_path": "4.后端基础课/全栈老赵讲-FastAPI-实战：从一个接口项目学会后端开发/README.md",
-          "updated_at": "2026-05-27 22:11:17"
+          "updated_at": "2026-05-27 22:22:38"
         },
         {
           "job_id": "5b5822805d60",
           "project_id": "5b5822805d60",
           "book_title": "全栈老赵讲 Flask 与 FastAPI 怎么选：新手后端学习路线图",
           "readme_path": "4.后端基础课/全栈老赵讲-Flask-与-FastAPI-怎么选：新手后端学习路线图/README.md",
-          "updated_at": "2026-05-27 22:11:17"
+          "updated_at": "2026-05-27 22:22:38"
         },
         {
           "job_id": "9f3a1638218f",
           "project_id": "9f3a1638218f",
           "book_title": "全栈老赵讲 Flask 入门：轻松写出你的第一个 Web 网站",
           "readme_path": "4.后端基础课/全栈老赵讲-Flask-入门：轻松写出你的第一个-Web-网站/README.md",
-          "updated_at": "2026-05-27 22:11:17"
+          "updated_at": "2026-05-27 22:22:38"
         },
         {
           "job_id": "78e9b9965e95",
           "project_id": "78e9b9965e95",
           "book_title": "全栈老赵讲 Flask 项目实战：从页面到后台的完整开发",
           "readme_path": "4.后端基础课/全栈老赵讲-Flask-项目实战：从页面到后台的完整开发/README.md",
-          "updated_at": "2026-05-27 22:11:17"
+          "updated_at": "2026-05-27 22:22:38"
         },
         {
           "job_id": "c41359eaf3b9",
           "project_id": "c41359eaf3b9",
           "book_title": "全栈老赵讲 Python 后端第一课：从语法到能写小工具",
           "readme_path": "4.后端基础课/全栈老赵讲-Python-后端第一课：从语法到能写小工具/README.md",
-          "updated_at": "2026-05-27 22:11:17"
+          "updated_at": "2026-05-27 22:22:38"
         },
         {
           "job_id": "bd63d7e7eb88",
           "project_id": "bd63d7e7eb88",
           "book_title": "全栈老赵讲 Python 零基础入门：从前端视角看懂后端开发",
           "readme_path": "4.后端基础课/全栈老赵讲-Python-零基础入门：从前端视角看懂后端开发/README.md",
-          "updated_at": "2026-05-27 22:11:17"
+          "updated_at": "2026-05-27 22:22:38"
         }
       ]
     },
@@ -169,35 +113,91 @@
           "project_id": "5bd98c50868c",
           "book_title": "全栈老赵讲 AI 前端入门：用 Vue/React 快速做出第一个 ChatGPT 网页应用",
           "readme_path": "5.全栈项目实战课/全栈老赵讲-AI-前端入门：用-Vue-React-快速做出第一个-ChatGPT-网页应用/README.md",
-          "updated_at": "2026-05-27 22:11:17"
+          "updated_at": "2026-05-27 22:22:38"
         },
         {
           "job_id": "3c4782758318",
           "project_id": "3c4782758318",
           "book_title": "全栈老赵讲 用 Next.js 做一个 AI SEO 内容站",
           "readme_path": "5.全栈项目实战课/全栈老赵讲-用-Next.js-做一个-AI-SEO-内容站/README.md",
-          "updated_at": "2026-05-27 22:11:17"
+          "updated_at": "2026-05-27 22:22:38"
         },
         {
           "job_id": "e1c264a52dac",
           "project_id": "e1c264a52dac",
           "book_title": "全栈老赵讲 用 React 快速做一个 AI 聊天网页",
           "readme_path": "5.全栈项目实战课/全栈老赵讲-用-React-快速做一个-AI-聊天网页/README.md",
-          "updated_at": "2026-05-27 22:11:17"
+          "updated_at": "2026-05-27 22:22:38"
         },
         {
           "job_id": "14d5ea53dbff",
           "project_id": "14d5ea53dbff",
           "book_title": "全栈老赵讲 用 Vue 做一个可商用的 AI 工具站",
           "readme_path": "5.全栈项目实战课/全栈老赵讲-用-Vue-做一个可商用的-AI-工具站/README.md",
-          "updated_at": "2026-05-27 22:11:17"
+          "updated_at": "2026-05-27 22:22:38"
         },
         {
           "job_id": "57fe26c64b62",
           "project_id": "57fe26c64b62",
           "book_title": "全栈老赵讲 用低代码思路快速做 AI 后台管理界面",
           "readme_path": "5.全栈项目实战课/全栈老赵讲-用低代码思路快速做-AI-后台管理界面/README.md",
-          "updated_at": "2026-05-27 22:11:17"
+          "updated_at": "2026-05-27 22:22:38"
+        }
+      ]
+    },
+    {
+      "category_title": "7.AI辅助编程",
+      "category_description": "",
+      "category_dir": "7.AI辅助编程",
+      "books": [
+        {
+          "job_id": "f8e58a603763",
+          "project_id": "f8e58a603763",
+          "book_title": "全栈老赵讲 AI辅助编程新手入门：从不会写代码到能做小工具",
+          "readme_path": "7.AI辅助编程/全栈老赵讲-AI辅助编程新手入门：从不会写代码到能做小工具/README.md",
+          "updated_at": "2026-05-27 22:22:38"
+        },
+        {
+          "job_id": "698b3869c67b",
+          "project_id": "698b3869c67b",
+          "book_title": "全栈老赵讲 前端新手也能懂的 AI 接口对接实战",
+          "readme_path": "7.AI辅助编程/全栈老赵讲-前端新手也能懂的-AI-接口对接实战/README.md",
+          "updated_at": "2026-05-27 22:22:38"
+        },
+        {
+          "job_id": "18182d07b942",
+          "project_id": "18182d07b942",
+          "book_title": "全栈老赵讲 前端项目里的 AI 调试与排错指南",
+          "readme_path": "7.AI辅助编程/全栈老赵讲-前端项目里的-AI-调试与排错指南/README.md",
+          "updated_at": "2026-05-27 22:22:38"
+        },
+        {
+          "job_id": "7c0f378f8c72",
+          "project_id": "7c0f378f8c72",
+          "book_title": "全栈老赵讲 给前端加上 AI 图像生成功能",
+          "readme_path": "7.AI辅助编程/全栈老赵讲-给前端加上-AI-图像生成功能/README.md",
+          "updated_at": "2026-05-27 22:22:38"
+        },
+        {
+          "job_id": "204969401e9a",
+          "project_id": "204969401e9a",
+          "book_title": "全栈老赵讲：AI辅助编程从零上手",
+          "readme_path": "7.AI辅助编程/全栈老赵讲：AI辅助编程从零上手/README.md",
+          "updated_at": "2026-05-27 22:22:38"
+        },
+        {
+          "job_id": "509f5508c224",
+          "project_id": "509f5508c224",
+          "book_title": "全栈老赵讲：AI辅助编程入门，零基础也能写出第一个可运行项目",
+          "readme_path": "7.AI辅助编程/全栈老赵讲：AI辅助编程入门，零基础也能写出第一个可运行项目/README.md",
+          "updated_at": "2026-05-27 22:22:38"
+        },
+        {
+          "job_id": "80b9f890952d",
+          "project_id": "1cd0d97cdebd",
+          "book_title": "全栈老赵讲：新手用 AI 批量生成前端可复用组件",
+          "readme_path": "7.AI辅助编程/全栈老赵讲：新手用-AI-批量生成前端可复用组件/README.md",
+          "updated_at": "2026-05-27 22:22:38"
         }
       ]
     },
@@ -211,7 +211,7 @@
           "project_id": "ab2708ed3da0",
           "book_title": "《前端面试必问的 100 个题，2026 年最新版，背完直接拿 offer》",
           "readme_path": "8.面试与求职/《前端面试必问的-100-个题，2026-年最新版，背完直接拿-offer》/README.md",
-          "updated_at": "2026-05-27 22:11:17"
+          "updated_at": "2026-05-27 22:22:38"
         }
       ]
     }
