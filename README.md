@@ -4,7 +4,7 @@
 
 更多内容请访问：[https://tutor.lao-zhao.com/](https://tutor.lao-zhao.com/)
 
-当前共收录 5 个书架、25 本电子书。
+当前共收录 6 个书架、39 本电子书。
 
 ## 作者介绍
 
@@ -21,6 +21,23 @@
 - [全栈老赵讲 JavaScript 入门：让网页真正动起来](1.前端基础课/全栈老赵讲-JavaScript-入门：让网页真正动起来/README.md)
 - [全栈老赵讲 前端三件套实战：用 HTML + CSS + JavaScript 做出一个完整小网页](1.前端基础课/全栈老赵讲-前端三件套实战：用-HTML-+-CSS-+-JavaScript-做出一个完整小网页/README.md)
 - [全栈老赵讲 前端新手避坑指南：HTML、CSS、JavaScript 常见错误全解析](1.前端基础课/全栈老赵讲-前端新手避坑指南：HTML、CSS、JavaScript-常见错误全解析/README.md)
+
+### [2.前端框架课](2.前端框架课)
+
+- [全栈老赵讲 Next.js + React：从前端页面到 SEO 站点](2.前端框架课/全栈老赵讲-Next.js-+-React：从前端页面到-SEO-站点/README.md)
+- [全栈老赵讲 Next.js 基础：从页面路由到服务端渲染](2.前端框架课/全栈老赵讲-Next.js-基础：从页面路由到服务端渲染/README.md)
+- [全栈老赵讲 Nuxt + Vue3：内容站与企业站开发实战](2.前端框架课/全栈老赵讲-Nuxt-+-Vue3：内容站与企业站开发实战/README.md)
+- [全栈老赵讲 Nuxt 基础：Vue 开发者的服务端渲染入门](2.前端框架课/全栈老赵讲-Nuxt-基础：Vue-开发者的服务端渲染入门/README.md)
+- [全栈老赵讲 React + CRA 项目实战：组件、状态和请求一次搞懂](2.前端框架课/全栈老赵讲-React-+-CRA-项目实战：组件、状态和请求一次搞懂/README.md)
+- [全栈老赵讲 React CRA 入门：用最短路径跑通 React 开发](2.前端框架课/全栈老赵讲-React-CRA-入门：用最短路径跑通-React-开发/README.md)
+- [全栈老赵讲 React Hooks：从 useState 到自定义 Hook](2.前端框架课/全栈老赵讲-React-Hooks：从-useState-到自定义-Hook/README.md)
+- [全栈老赵讲 Vite：前端构建工具从 0 到会用](2.前端框架课/全栈老赵讲-Vite：前端构建工具从-0-到会用/README.md)
+- [全栈老赵讲 Vue3 + Vite 项目实战：从创建到部署](2.前端框架课/全栈老赵讲-Vue3-+-Vite-项目实战：从创建到部署/README.md)
+- [全栈老赵讲 Vue3 入门到实战：从组件思维到小项目落地](2.前端框架课/全栈老赵讲-Vue3-入门到实战：从组件思维到小项目落地/README.md)
+- [全栈老赵讲 Vue3 状态管理：Pinia 从入门到业务落地](2.前端框架课/全栈老赵讲-Vue3-状态管理：Pinia-从入门到业务落地/README.md)
+- [全栈老赵讲 Vue3 组件开发：从单文件组件到高复用业务组件](2.前端框架课/全栈老赵讲-Vue3-组件开发：从单文件组件到高复用业务组件/README.md)
+- [全栈老赵讲 Webpack 基础：从打包原理到常用配置](2.前端框架课/全栈老赵讲-Webpack-基础：从打包原理到常用配置/README.md)
+- [全栈老赵讲 前端工程化基础：Vite、Webpack、规范与脚手架](2.前端框架课/全栈老赵讲-前端工程化基础：Vite、Webpack、规范与脚手架/README.md)
 
 ### [4.后端基础课](4.后端基础课)
 
